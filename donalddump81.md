@@ -7,7 +7,7 @@ project: first raspberry pi desktop kit
 
 ## Summary
 
-I've been wanting to build my first raspberry pi desktop kit for a couple of years now so that way I can host my bots on a different platform that doesn't involve windows.What does it do? Why are you excited to build it?
+I've been wanting to build my first raspberry pi desktop kit for a couple of years now so that way I can host my bots on a different platform that doesn't involve windows. I'm excited to build this because it can run my bots and keep my processes separate from my computer by being on a different system so i no lomger have a slow computer.
 
 ## Plan
 
